@@ -1,0 +1,503 @@
+{
+	"textures": [
+		{
+			"image": "imagenes_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1920,
+				"h": 495
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "caja-bolas",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1828,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1828,
+						"h": 121
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1828,
+						"h": 121
+					}
+				},
+				{
+					"filename": "logo-juego",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 480,
+						"h": 370
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 480,
+						"h": 370
+					},
+					"frame": {
+						"x": 1,
+						"y": 124,
+						"w": 480,
+						"h": 370
+					}
+				},
+				{
+					"filename": "carton-caja-numeros",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 628,
+						"h": 317
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 628,
+						"h": 317
+					},
+					"frame": {
+						"x": 483,
+						"y": 124,
+						"w": 628,
+						"h": 317
+					}
+				},
+				{
+					"filename": "loading-logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 369,
+						"h": 101
+					},
+					"frame": {
+						"x": 1113,
+						"y": 124,
+						"w": 369,
+						"h": 101
+					}
+				},
+				{
+					"filename": "saldo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 349,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 70
+					},
+					"frame": {
+						"x": 1113,
+						"y": 227,
+						"w": 349,
+						"h": 70
+					}
+				},
+				{
+					"filename": "tiempo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 347,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 70
+					},
+					"frame": {
+						"x": 1113,
+						"y": 299,
+						"w": 347,
+						"h": 70
+					}
+				},
+				{
+					"filename": "loading-logo-juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 112
+					},
+					"frame": {
+						"x": 1484,
+						"y": 124,
+						"w": 231,
+						"h": 112
+					}
+				},
+				{
+					"filename": "polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 195,
+						"h": 55
+					},
+					"frame": {
+						"x": 1113,
+						"y": 371,
+						"w": 195,
+						"h": 55
+					}
+				},
+				{
+					"filename": "estrella",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 180
+					},
+					"frame": {
+						"x": 1717,
+						"y": 124,
+						"w": 180,
+						"h": 180
+					}
+				},
+				{
+					"filename": "logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 180,
+						"h": 178
+					},
+					"frame": {
+						"x": 1464,
+						"y": 238,
+						"w": 180,
+						"h": 178
+					}
+				},
+				{
+					"filename": "ovni",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 68
+					},
+					"frame": {
+						"x": 1310,
+						"y": 371,
+						"w": 140,
+						"h": 68
+					}
+				},
+				{
+					"filename": "meteoro",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 85
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1,
+						"w": 88,
+						"h": 85
+					}
+				},
+				{
+					"filename": "fuego-blanco",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1646,
+						"y": 306,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "fuego-amarillo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 1776,
+						"y": 306,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 62
+					},
+					"frame": {
+						"x": 1113,
+						"y": 428,
+						"w": 128,
+						"h": 62
+					}
+				},
+				{
+					"filename": "carton-cerrar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 54
+					},
+					"frame": {
+						"x": 1646,
+						"y": 238,
+						"w": 63,
+						"h": 54
+					}
+				},
+				{
+					"filename": "carton-recargar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 54
+					},
+					"frame": {
+						"x": 1243,
+						"y": 428,
+						"w": 62,
+						"h": 54
+					}
+				},
+				{
+					"filename": "star-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 41
+					},
+					"frame": {
+						"x": 483,
+						"y": 443,
+						"w": 68,
+						"h": 41
+					}
+				},
+				{
+					"filename": "star-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 59
+					},
+					"frame": {
+						"x": 1452,
+						"y": 418,
+						"w": 54,
+						"h": 59
+					}
+				},
+				{
+					"filename": "star-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 58
+					},
+					"frame": {
+						"x": 1508,
+						"y": 418,
+						"w": 52,
+						"h": 58
+					}
+				},
+				{
+					"filename": "cuadrado-resaltado",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 1831,
+						"y": 88,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "cuadrado",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 553,
+						"y": 443,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "rain",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 17,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 1562,
+						"y": 418,
+						"w": 14,
+						"h": 14
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:07d89cb4314a61a6d7d377b4cbeba05b:172bf400172b3bff6f36772ec0b868e5:2db50c4a79ebc1bcbd9597afe4e693ea$"
+	}
+}
