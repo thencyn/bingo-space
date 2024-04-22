@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "botones_atlas.png",
+			"image": "imagenes_atlas.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1830,
@@ -94,6 +94,27 @@
 					}
 				},
 				{
+					"filename": "astronauta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 190,
+						"h": 229
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 229
+					},
+					"frame": {
+						"x": 1635,
+						"y": 124,
+						"w": 190,
+						"h": 229
+					}
+				},
+				{
 					"filename": "estrella",
 					"rotated": false,
 					"trimmed": false,
@@ -109,30 +130,9 @@
 					},
 					"frame": {
 						"x": 1635,
-						"y": 124,
+						"y": 355,
 						"w": 180,
 						"h": 180
-					}
-				},
-				{
-					"filename": "logo-polla",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 180,
-						"h": 180
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 1,
-						"w": 180,
-						"h": 178
-					},
-					"frame": {
-						"x": 1635,
-						"y": 306,
-						"w": 180,
-						"h": 178
 					}
 				},
 				{
@@ -157,24 +157,66 @@
 					}
 				},
 				{
-					"filename": "loading-logo-juega-responsable",
+					"filename": "planeta",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 231,
-						"h": 112
+						"w": 247,
+						"h": 247
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 231,
-						"h": 112
+						"w": 247,
+						"h": 247
 					},
 					"frame": {
 						"x": 1376,
 						"y": 443,
-						"w": 231,
-						"h": 112
+						"w": 247,
+						"h": 247
+					}
+				},
+				{
+					"filename": "polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 195,
+						"h": 55
+					},
+					"frame": {
+						"x": 1625,
+						"y": 537,
+						"w": 195,
+						"h": 55
+					}
+				},
+				{
+					"filename": "logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 180,
+						"h": 178
+					},
+					"frame": {
+						"x": 1625,
+						"y": 594,
+						"w": 180,
+						"h": 178
 					}
 				},
 				{
@@ -192,8 +234,8 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1609,
-						"y": 443,
+						"x": 1807,
+						"y": 594,
 						"w": 14,
 						"h": 14
 					}
@@ -213,8 +255,8 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1609,
-						"y": 459,
+						"x": 1807,
+						"y": 610,
 						"w": 14,
 						"h": 14
 					}
@@ -234,94 +276,10 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1609,
-						"y": 475,
+						"x": 1807,
+						"y": 626,
 						"w": 14,
 						"h": 14
-					}
-				},
-				{
-					"filename": "polla",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 200,
-						"h": 62
-					},
-					"spriteSourceSize": {
-						"x": 3,
-						"y": 3,
-						"w": 195,
-						"h": 55
-					},
-					"frame": {
-						"x": 1625,
-						"y": 486,
-						"w": 195,
-						"h": 55
-					}
-				},
-				{
-					"filename": "ovni",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 140,
-						"h": 68
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 140,
-						"h": 68
-					},
-					"frame": {
-						"x": 1609,
-						"y": 543,
-						"w": 140,
-						"h": 68
-					}
-				},
-				{
-					"filename": "star-1",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 68,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 68,
-						"h": 41
-					},
-					"frame": {
-						"x": 1751,
-						"y": 543,
-						"w": 68,
-						"h": 41
-					}
-				},
-				{
-					"filename": "star-2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 54,
-						"h": 59
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 54,
-						"h": 59
-					},
-					"frame": {
-						"x": 1751,
-						"y": 586,
-						"w": 54,
-						"h": 59
 					}
 				},
 				{
@@ -388,6 +346,27 @@
 					}
 				},
 				{
+					"filename": "loading-logo-juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 112
+					},
+					"frame": {
+						"x": 1004,
+						"y": 546,
+						"w": 231,
+						"h": 112
+					}
+				},
+				{
 					"filename": "juega-responsable",
 					"rotated": false,
 					"trimmed": false,
@@ -402,8 +381,8 @@
 						"h": 62
 					},
 					"frame": {
-						"x": 1004,
-						"y": 546,
+						"x": 872,
+						"y": 625,
 						"w": 128,
 						"h": 62
 					}
@@ -423,10 +402,31 @@
 						"h": 128
 					},
 					"frame": {
-						"x": 1134,
+						"x": 1237,
 						"y": 546,
 						"w": 127,
 						"h": 128
+					}
+				},
+				{
+					"filename": "ovni",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 68
+					},
+					"frame": {
+						"x": 1002,
+						"y": 660,
+						"w": 140,
+						"h": 68
 					}
 				},
 				{
@@ -444,10 +444,52 @@
 						"h": 85
 					},
 					"frame": {
-						"x": 1263,
-						"y": 546,
+						"x": 1144,
+						"y": 660,
 						"w": 88,
 						"h": 85
+					}
+				},
+				{
+					"filename": "star-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 41
+					},
+					"frame": {
+						"x": 1234,
+						"y": 676,
+						"w": 68,
+						"h": 41
+					}
+				},
+				{
+					"filename": "star-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 59
+					},
+					"frame": {
+						"x": 1304,
+						"y": 676,
+						"w": 54,
+						"h": 59
 					}
 				},
 				{
@@ -465,8 +507,8 @@
 						"h": 58
 					},
 					"frame": {
-						"x": 1004,
-						"y": 610,
+						"x": 1234,
+						"y": 719,
 						"w": 52,
 						"h": 58
 					}
@@ -477,6 +519,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1c53b1c0c305180754991424a6e04ab8:eed431344e8370c48aa71cebf66a872a:111effd348c792a3bc147496705a742e$"
+		"smartupdate": "$TexturePacker:SmartUpdate:630f841651beba433161f10eca1c8bf5:98bd30b0f8abd1eecc5b326ada89ec5e:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
