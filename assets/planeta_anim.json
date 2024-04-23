@@ -1,0 +1,66 @@
+{
+    "anims": [
+        {
+            "key": "anim-planeta",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-01"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-02"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-03"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-04"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-05"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-06"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-07"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-08"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-09"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-10"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-11"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-12"
+                },
+                {
+                    "key": "AtlasPlaneta",
+                    "frame": "planeta-13"
+                }
+            ]
+        }
+    ]
+}
+
+
