@@ -136,45 +136,66 @@
 					}
 				},
 				{
-					"filename": "loading-logo-polla",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 380,
-						"h": 116
-					},
-					"spriteSourceSize": {
-						"x": 6,
-						"y": 8,
-						"w": 369,
-						"h": 101
-					},
-					"frame": {
-						"x": 1005,
-						"y": 443,
-						"w": 369,
-						"h": 101
-					}
-				},
-				{
-					"filename": "planeta",
+					"filename": "caja-apuesta",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 247,
-						"h": 247
+						"w": 500,
+						"h": 107
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 247,
-						"h": 247
+						"w": 500,
+						"h": 107
 					},
 					"frame": {
-						"x": 1376,
+						"x": 1005,
 						"y": 443,
-						"w": 247,
-						"h": 247
+						"w": 500,
+						"h": 107
+					}
+				},
+				{
+					"filename": "saldo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 500,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 107
+					},
+					"frame": {
+						"x": 1005,
+						"y": 443,
+						"w": 500,
+						"h": 107
+					}
+				},
+				{
+					"filename": "tiempo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 106
+					},
+					"frame": {
+						"x": 1507,
+						"y": 443,
+						"w": 124,
+						"h": 106
 					}
 				},
 				{
@@ -192,31 +213,52 @@
 						"h": 55
 					},
 					"frame": {
-						"x": 1625,
+						"x": 1633,
 						"y": 537,
 						"w": 195,
 						"h": 55
 					}
 				},
 				{
-					"filename": "logo-polla",
+					"filename": "meteoro",
 					"rotated": false,
-					"trimmed": true,
+					"trimmed": false,
 					"sourceSize": {
-						"w": 180,
-						"h": 180
+						"w": 88,
+						"h": 85
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 1,
-						"w": 180,
-						"h": 178
+						"y": 0,
+						"w": 88,
+						"h": 85
 					},
 					"frame": {
-						"x": 1625,
+						"x": 1507,
+						"y": 551,
+						"w": 88,
+						"h": 85
+					}
+				},
+				{
+					"filename": "loading-logo-juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 112
+					},
+					"frame": {
+						"x": 1597,
 						"y": 594,
-						"w": 180,
-						"h": 178
+						"w": 231,
+						"h": 112
 					}
 				},
 				{
@@ -234,8 +276,8 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1807,
-						"y": 594,
+						"x": 1597,
+						"y": 551,
 						"w": 14,
 						"h": 14
 					}
@@ -255,8 +297,8 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1807,
-						"y": 610,
+						"x": 1613,
+						"y": 551,
 						"w": 14,
 						"h": 14
 					}
@@ -276,178 +318,31 @@
 						"h": 14
 					},
 					"frame": {
-						"x": 1807,
-						"y": 626,
+						"x": 1597,
+						"y": 567,
 						"w": 14,
 						"h": 14
 					}
 				},
 				{
-					"filename": "saldo",
+					"filename": "loading-logo-polla",
 					"rotated": false,
-					"trimmed": false,
+					"trimmed": true,
 					"sourceSize": {
-						"w": 349,
-						"h": 70
+						"w": 380,
+						"h": 116
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 349,
-						"h": 70
+						"x": 6,
+						"y": 8,
+						"w": 369,
+						"h": 101
 					},
 					"frame": {
 						"x": 523,
 						"y": 496,
-						"w": 349,
-						"h": 70
-					}
-				},
-				{
-					"filename": "fuego-blanco",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 128,
-						"h": 128
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 1,
-						"w": 128,
-						"h": 127
-					},
-					"frame": {
-						"x": 874,
-						"y": 496,
-						"w": 128,
-						"h": 127
-					}
-				},
-				{
-					"filename": "tiempo",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 347,
-						"h": 70
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 347,
-						"h": 70
-					},
-					"frame": {
-						"x": 523,
-						"y": 568,
-						"w": 347,
-						"h": 70
-					}
-				},
-				{
-					"filename": "loading-logo-juega-responsable",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 231,
-						"h": 112
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 231,
-						"h": 112
-					},
-					"frame": {
-						"x": 1004,
-						"y": 546,
-						"w": 231,
-						"h": 112
-					}
-				},
-				{
-					"filename": "juega-responsable",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 128,
-						"h": 62
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 128,
-						"h": 62
-					},
-					"frame": {
-						"x": 872,
-						"y": 625,
-						"w": 128,
-						"h": 62
-					}
-				},
-				{
-					"filename": "fuego-amarillo",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 128,
-						"h": 128
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 127,
-						"h": 128
-					},
-					"frame": {
-						"x": 1237,
-						"y": 546,
-						"w": 127,
-						"h": 128
-					}
-				},
-				{
-					"filename": "ovni",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 140,
-						"h": 68
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 140,
-						"h": 68
-					},
-					"frame": {
-						"x": 1002,
-						"y": 660,
-						"w": 140,
-						"h": 68
-					}
-				},
-				{
-					"filename": "meteoro",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 88,
-						"h": 85
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 88,
-						"h": 85
-					},
-					"frame": {
-						"x": 1144,
-						"y": 660,
-						"w": 88,
-						"h": 85
+						"w": 369,
+						"h": 101
 					}
 				},
 				{
@@ -465,8 +360,8 @@
 						"h": 41
 					},
 					"frame": {
-						"x": 1234,
-						"y": 676,
+						"x": 894,
+						"y": 496,
 						"w": 68,
 						"h": 41
 					}
@@ -486,8 +381,8 @@
 						"h": 59
 					},
 					"frame": {
-						"x": 1304,
-						"y": 676,
+						"x": 894,
+						"y": 539,
 						"w": 54,
 						"h": 59
 					}
@@ -507,10 +402,115 @@
 						"h": 58
 					},
 					"frame": {
-						"x": 1234,
-						"y": 719,
+						"x": 950,
+						"y": 539,
 						"w": 52,
 						"h": 58
+					}
+				},
+				{
+					"filename": "logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 180,
+						"h": 178
+					},
+					"frame": {
+						"x": 523,
+						"y": 599,
+						"w": 180,
+						"h": 178
+					}
+				},
+				{
+					"filename": "ovni",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 68
+					},
+					"frame": {
+						"x": 705,
+						"y": 599,
+						"w": 140,
+						"h": 68
+					}
+				},
+				{
+					"filename": "fuego-amarillo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 523,
+						"y": 779,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "fuego-blanco",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 523,
+						"y": 909,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 62
+					},
+					"frame": {
+						"x": 523,
+						"y": 1038,
+						"w": 128,
+						"h": 62
 					}
 				}
 			]
@@ -519,6 +519,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:630f841651beba433161f10eca1c8bf5:98bd30b0f8abd1eecc5b326ada89ec5e:2db50c4a79ebc1bcbd9597afe4e693ea$"
+		"smartupdate": "$TexturePacker:SmartUpdate:4984ca6cfd9c2c9a834b810d6fa7315b:d3de2c40b65c63f6603c56c3a46f3269:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
