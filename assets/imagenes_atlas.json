@@ -367,108 +367,24 @@
 					}
 				},
 				{
-					"filename": "juega-responsable",
+					"filename": "caja-premio",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 128,
-						"h": 62
+						"w": 366,
+						"h": 204
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 128,
-						"h": 62
-					},
-					"frame": {
-						"x": 665,
-						"y": 1060,
-						"w": 128,
-						"h": 62
-					}
-				},
-				{
-					"filename": "fuego-amarillo",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 128,
-						"h": 128
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 127,
-						"h": 128
-					},
-					"frame": {
-						"x": 523,
-						"y": 621,
-						"w": 127,
-						"h": 128
-					}
-				},
-				{
-					"filename": "star-2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 54,
-						"h": 59
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 54,
-						"h": 59
+						"w": 366,
+						"h": 204
 					},
 					"frame": {
 						"x": 523,
 						"y": 552,
-						"w": 54,
-						"h": 59
-					}
-				},
-				{
-					"filename": "star-3",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 52,
-						"h": 58
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 52,
-						"h": 58
-					},
-					"frame": {
-						"x": 579,
-						"y": 552,
-						"w": 52,
-						"h": 58
-					}
-				},
-				{
-					"filename": "loading-logo-polla",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 380,
-						"h": 116
-					},
-					"spriteSourceSize": {
-						"x": 6,
-						"y": 8,
-						"w": 369,
-						"h": 101
-					},
-					"frame": {
-						"x": 633,
-						"y": 496,
-						"w": 369,
-						"h": 101
+						"w": 366,
+						"h": 204
 					}
 				},
 				{
@@ -493,6 +409,153 @@
 					}
 				},
 				{
+					"filename": "juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 62
+					},
+					"frame": {
+						"x": 665,
+						"y": 1060,
+						"w": 128,
+						"h": 62
+					}
+				},
+				{
+					"filename": "meteoro",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 85
+					},
+					"frame": {
+						"x": 891,
+						"y": 496,
+						"w": 88,
+						"h": 85
+					}
+				},
+				{
+					"filename": "caja-bolas-extra",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 225,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 225,
+						"h": 181
+					},
+					"frame": {
+						"x": 745,
+						"y": 774,
+						"w": 225,
+						"h": 181
+					}
+				},
+				{
+					"filename": "loading-logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 369,
+						"h": 101
+					},
+					"frame": {
+						"x": 745,
+						"y": 957,
+						"w": 369,
+						"h": 101
+					}
+				},
+				{
+					"filename": "fuego-amarillo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 891,
+						"y": 621,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "star-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 59
+					},
+					"frame": {
+						"x": 981,
+						"y": 552,
+						"w": 54,
+						"h": 59
+					}
+				},
+				{
+					"filename": "star-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 58
+					},
+					"frame": {
+						"x": 795,
+						"y": 1060,
+						"w": 52,
+						"h": 58
+					}
+				},
+				{
 					"filename": "fuego-blanco",
 					"rotated": false,
 					"trimmed": true,
@@ -507,8 +570,8 @@
 						"h": 127
 					},
 					"frame": {
-						"x": 652,
-						"y": 621,
+						"x": 972,
+						"y": 774,
 						"w": 128,
 						"h": 127
 					}
@@ -528,31 +591,10 @@
 						"h": 112
 					},
 					"frame": {
-						"x": 745,
-						"y": 774,
+						"x": 1020,
+						"y": 621,
 						"w": 231,
 						"h": 112
-					}
-				},
-				{
-					"filename": "meteoro",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 88,
-						"h": 85
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 88,
-						"h": 85
-					},
-					"frame": {
-						"x": 782,
-						"y": 621,
-						"w": 88,
-						"h": 85
 					}
 				}
 			]
@@ -561,6 +603,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:2cc4693b7e5a978535e0d07ce82666ce:4f0eeccf7736b09d76b8fc7f08200b90:2db50c4a79ebc1bcbd9597afe4e693ea$"
+		"smartupdate": "$TexturePacker:SmartUpdate:33ab05d6cbfe925fa4d00ac19c53a032:6f3b6ca86cffab5e8cdb1b63e076921d:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
