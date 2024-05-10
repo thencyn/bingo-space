@@ -4,8 +4,8 @@
 			"image": "imagenes_atlas.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1830,
-				"h": 1144
+				"w": 1890,
+				"h": 654
 			},
 			"scale": 1,
 			"frames": [
@@ -31,24 +31,24 @@
 					}
 				},
 				{
-					"filename": "nave-espacial",
+					"filename": "carton-caja-numeros",
 					"rotated": false,
-					"trimmed": true,
+					"trimmed": false,
 					"sourceSize": {
-						"w": 520,
-						"h": 1028
+						"w": 628,
+						"h": 317
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 520,
-						"h": 1019
+						"w": 628,
+						"h": 317
 					},
 					"frame": {
 						"x": 1,
 						"y": 124,
-						"w": 520,
-						"h": 1019
+						"w": 628,
+						"h": 317
 					}
 				},
 				{
@@ -66,73 +66,10 @@
 						"h": 370
 					},
 					"frame": {
-						"x": 523,
+						"x": 631,
 						"y": 124,
 						"w": 480,
 						"h": 370
-					}
-				},
-				{
-					"filename": "carton-caja-numeros",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 628,
-						"h": 317
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 628,
-						"h": 317
-					},
-					"frame": {
-						"x": 1005,
-						"y": 124,
-						"w": 628,
-						"h": 317
-					}
-				},
-				{
-					"filename": "astronauta",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 190,
-						"h": 229
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 190,
-						"h": 229
-					},
-					"frame": {
-						"x": 1635,
-						"y": 124,
-						"w": 190,
-						"h": 229
-					}
-				},
-				{
-					"filename": "estrella",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 180,
-						"h": 180
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 180,
-						"h": 180
-					},
-					"frame": {
-						"x": 1635,
-						"y": 355,
-						"w": 180,
-						"h": 180
 					}
 				},
 				{
@@ -150,7 +87,7 @@
 						"h": 107
 					},
 					"frame": {
-						"x": 1005,
+						"x": 1,
 						"y": 443,
 						"w": 500,
 						"h": 107
@@ -171,136 +108,10 @@
 						"h": 107
 					},
 					"frame": {
-						"x": 1005,
+						"x": 1,
 						"y": 443,
 						"w": 500,
 						"h": 107
-					}
-				},
-				{
-					"filename": "numero-destacar",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 102,
-						"h": 68
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 102,
-						"h": 68
-					},
-					"frame": {
-						"x": 1507,
-						"y": 443,
-						"w": 102,
-						"h": 68
-					}
-				},
-				{
-					"filename": "cuadrado-resaltado",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 14,
-						"h": 14
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 14,
-						"h": 14
-					},
-					"frame": {
-						"x": 1611,
-						"y": 443,
-						"w": 14,
-						"h": 14
-					}
-				},
-				{
-					"filename": "cuadrado",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 14,
-						"h": 14
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 14,
-						"h": 14
-					},
-					"frame": {
-						"x": 1611,
-						"y": 459,
-						"w": 14,
-						"h": 14
-					}
-				},
-				{
-					"filename": "rain",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 17,
-						"h": 17
-					},
-					"spriteSourceSize": {
-						"x": 2,
-						"y": 3,
-						"w": 14,
-						"h": 14
-					},
-					"frame": {
-						"x": 1611,
-						"y": 475,
-						"w": 14,
-						"h": 14
-					}
-				},
-				{
-					"filename": "meteoro",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 88,
-						"h": 85
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 88,
-						"h": 85
-					},
-					"frame": {
-						"x": 1507,
-						"y": 513,
-						"w": 88,
-						"h": 85
-					}
-				},
-				{
-					"filename": "loading-logo-juega-responsable",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 231,
-						"h": 112
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 231,
-						"h": 112
-					},
-					"frame": {
-						"x": 1597,
-						"y": 537,
-						"w": 231,
-						"h": 112
 					}
 				},
 				{
@@ -318,73 +129,31 @@
 						"h": 101
 					},
 					"frame": {
-						"x": 523,
-						"y": 496,
+						"x": 1,
+						"y": 552,
 						"w": 369,
 						"h": 101
 					}
 				},
 				{
-					"filename": "star-1",
+					"filename": "caja-bolas-extra",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 68,
-						"h": 41
+						"w": 357,
+						"h": 217
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 68,
-						"h": 41
+						"w": 357,
+						"h": 217
 					},
 					"frame": {
-						"x": 894,
-						"y": 496,
-						"w": 68,
-						"h": 41
-					}
-				},
-				{
-					"filename": "star-2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 54,
-						"h": 59
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 54,
-						"h": 59
-					},
-					"frame": {
-						"x": 894,
-						"y": 539,
-						"w": 54,
-						"h": 59
-					}
-				},
-				{
-					"filename": "star-3",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 52,
-						"h": 58
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 52,
-						"h": 58
-					},
-					"frame": {
-						"x": 950,
-						"y": 539,
-						"w": 52,
-						"h": 58
+						"x": 1113,
+						"y": 124,
+						"w": 357,
+						"h": 217
 					}
 				},
 				{
@@ -402,8 +171,8 @@
 						"h": 204
 					},
 					"frame": {
-						"x": 523,
-						"y": 599,
+						"x": 1472,
+						"y": 124,
 						"w": 366,
 						"h": 204
 					}
@@ -423,157 +192,52 @@
 						"h": 284
 					},
 					"frame": {
-						"x": 523,
-						"y": 805,
+						"x": 1113,
+						"y": 343,
 						"w": 220,
 						"h": 284
 					}
 				},
 				{
-					"filename": "caja-bolas-extra",
+					"filename": "astronauta",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 357,
-						"h": 217
+						"w": 190,
+						"h": 229
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 357,
-						"h": 217
+						"w": 190,
+						"h": 229
 					},
 					"frame": {
-						"x": 745,
-						"y": 805,
-						"w": 357,
-						"h": 217
+						"x": 1335,
+						"y": 343,
+						"w": 190,
+						"h": 229
 					}
 				},
 				{
-					"filename": "fuego-amarillo",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 128,
-						"h": 128
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 127,
-						"h": 128
-					},
-					"frame": {
-						"x": 891,
-						"y": 651,
-						"w": 127,
-						"h": 128
-					}
-				},
-				{
-					"filename": "tiempo",
+					"filename": "estrella",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 150,
-						"h": 87
+						"w": 180,
+						"h": 180
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 150,
-						"h": 87
+						"w": 180,
+						"h": 180
 					},
 					"frame": {
-						"x": 1004,
-						"y": 552,
-						"w": 150,
-						"h": 87
-					}
-				},
-				{
-					"filename": "fuego-blanco",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 128,
-						"h": 128
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 1,
-						"w": 128,
-						"h": 127
-					},
-					"frame": {
-						"x": 1020,
-						"y": 651,
-						"w": 128,
-						"h": 127
-					}
-				},
-				{
-					"filename": "ovni",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 140,
-						"h": 68
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 140,
-						"h": 68
-					},
-					"frame": {
-						"x": 745,
-						"y": 1024,
-						"w": 140,
-						"h": 68
-					}
-				},
-				{
-					"filename": "juega-responsable",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 128,
-						"h": 62
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 128,
-						"h": 62
-					},
-					"frame": {
-						"x": 887,
-						"y": 1024,
-						"w": 128,
-						"h": 62
-					}
-				},
-				{
-					"filename": "polla",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 200,
-						"h": 62
-					},
-					"spriteSourceSize": {
-						"x": 3,
-						"y": 3,
-						"w": 195,
-						"h": 55
-					},
-					"frame": {
-						"x": 887,
-						"y": 1088,
-						"w": 195,
-						"h": 55
+						"x": 1527,
+						"y": 330,
+						"w": 180,
+						"h": 180
 					}
 				},
 				{
@@ -591,10 +255,346 @@
 						"h": 178
 					},
 					"frame": {
-						"x": 1156,
-						"y": 552,
+						"x": 1709,
+						"y": 330,
 						"w": 180,
 						"h": 178
+					}
+				},
+				{
+					"filename": "polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 195,
+						"h": 55
+					},
+					"frame": {
+						"x": 1335,
+						"y": 574,
+						"w": 195,
+						"h": 55
+					}
+				},
+				{
+					"filename": "loading-logo-juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 112
+					},
+					"frame": {
+						"x": 1532,
+						"y": 512,
+						"w": 231,
+						"h": 112
+					}
+				},
+				{
+					"filename": "bola-extra",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 107
+					},
+					"frame": {
+						"x": 503,
+						"y": 443,
+						"w": 115,
+						"h": 107
+					}
+				},
+				{
+					"filename": "tiempo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 87
+					},
+					"frame": {
+						"x": 372,
+						"y": 552,
+						"w": 150,
+						"h": 87
+					}
+				},
+				{
+					"filename": "ovni",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 68
+					},
+					"frame": {
+						"x": 620,
+						"y": 496,
+						"w": 140,
+						"h": 68
+					}
+				},
+				{
+					"filename": "fuego-blanco",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 762,
+						"y": 496,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "fuego-amarillo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 892,
+						"y": 496,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "meteoro",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 85
+					},
+					"frame": {
+						"x": 524,
+						"y": 552,
+						"w": 88,
+						"h": 85
+					}
+				},
+				{
+					"filename": "juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 62
+					},
+					"frame": {
+						"x": 614,
+						"y": 566,
+						"w": 128,
+						"h": 62
+					}
+				},
+				{
+					"filename": "numero-destacar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 68
+					},
+					"frame": {
+						"x": 1765,
+						"y": 510,
+						"w": 102,
+						"h": 68
+					}
+				},
+				{
+					"filename": "star-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 59
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1,
+						"w": 54,
+						"h": 59
+					}
+				},
+				{
+					"filename": "star-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 58
+					},
+					"frame": {
+						"x": 1021,
+						"y": 496,
+						"w": 52,
+						"h": 58
+					}
+				},
+				{
+					"filename": "star-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 41
+					},
+					"frame": {
+						"x": 1765,
+						"y": 580,
+						"w": 68,
+						"h": 41
+					}
+				},
+				{
+					"filename": "cuadrado-resaltado",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 524,
+						"y": 639,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "cuadrado",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 540,
+						"y": 639,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "rain",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 17,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 556,
+						"y": 639,
+						"w": 14,
+						"h": 14
 					}
 				}
 			]
@@ -603,6 +603,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1421456fb74052bd60c88560dcded58d:279482f999dc38979e067fa7dc6885eb:2db50c4a79ebc1bcbd9597afe4e693ea$"
+		"smartupdate": "$TexturePacker:SmartUpdate:2e81c17f722041c68a52ce1a2d1fdb7b:fa3f1d179c4fcfbc991d02c8df0b8ec0:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
