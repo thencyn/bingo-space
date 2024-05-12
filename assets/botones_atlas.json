@@ -472,28 +472,28 @@
 					}
 				},
 				{
-					"filename": "boton-anterior",
+					"filename": "menu-disable",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
 						"w": 72,
-						"h": 62
+						"h": 63
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
 						"w": 72,
-						"h": 62
+						"h": 63
 					},
 					"frame": {
 						"x": 572,
 						"y": 443,
 						"w": 72,
-						"h": 62
+						"h": 63
 					}
 				},
 				{
-					"filename": "boton-cerrar",
+					"filename": "boton-anterior",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -514,7 +514,7 @@
 					}
 				},
 				{
-					"filename": "boton-siguiente",
+					"filename": "boton-cerrar",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -535,7 +535,7 @@
 					}
 				},
 				{
-					"filename": "configuracion",
+					"filename": "boton-siguiente",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -556,7 +556,7 @@
 					}
 				},
 				{
-					"filename": "full-screen",
+					"filename": "configuracion",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -577,7 +577,7 @@
 					}
 				},
 				{
-					"filename": "home",
+					"filename": "full-screen",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -598,7 +598,7 @@
 					}
 				},
 				{
-					"filename": "informacion",
+					"filename": "home",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -619,7 +619,7 @@
 					}
 				},
 				{
-					"filename": "menu-disable",
+					"filename": "informacion",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -792,6 +792,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:990c6629c8e918ca0562c8952e2c49b2:10352918736e07fd780cec1f3d425ef1:111effd348c792a3bc147496705a742e$"
+		"smartupdate": "$TexturePacker:SmartUpdate:d8c65d9c5b9ac25ea22c2bb3253b77c4:ad475c3d083c1350d0d16274214021c7:111effd348c792a3bc147496705a742e$"
 	}
 }
