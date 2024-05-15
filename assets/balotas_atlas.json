@@ -10,7 +10,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "balota-01",
+					"filename": "balota-01.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -31,7 +31,7 @@
 					}
 				},
 				{
-					"filename": "balota-02",
+					"filename": "balota-02.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -52,7 +52,7 @@
 					}
 				},
 				{
-					"filename": "balota-03",
+					"filename": "balota-03.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -73,7 +73,7 @@
 					}
 				},
 				{
-					"filename": "balota-04",
+					"filename": "balota-04.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -94,7 +94,7 @@
 					}
 				},
 				{
-					"filename": "balota-05",
+					"filename": "balota-05.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -115,7 +115,7 @@
 					}
 				},
 				{
-					"filename": "balota-06",
+					"filename": "balota-06.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -136,7 +136,7 @@
 					}
 				},
 				{
-					"filename": "balota-07",
+					"filename": "balota-07.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -157,7 +157,7 @@
 					}
 				},
 				{
-					"filename": "balota-08",
+					"filename": "balota-08.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -178,7 +178,7 @@
 					}
 				},
 				{
-					"filename": "balota-09",
+					"filename": "balota-09.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -199,7 +199,7 @@
 					}
 				},
 				{
-					"filename": "balota-10",
+					"filename": "balota-10.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -220,7 +220,7 @@
 					}
 				},
 				{
-					"filename": "balota-11",
+					"filename": "balota-11.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -241,7 +241,7 @@
 					}
 				},
 				{
-					"filename": "balota-12",
+					"filename": "balota-12.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -262,7 +262,7 @@
 					}
 				},
 				{
-					"filename": "balota-13",
+					"filename": "balota-13.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -283,7 +283,7 @@
 					}
 				},
 				{
-					"filename": "balota-14",
+					"filename": "balota-14.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -304,7 +304,7 @@
 					}
 				},
 				{
-					"filename": "balota-15",
+					"filename": "balota-15.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -325,7 +325,7 @@
 					}
 				},
 				{
-					"filename": "balota-16",
+					"filename": "balota-16.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -346,7 +346,7 @@
 					}
 				},
 				{
-					"filename": "balota-17",
+					"filename": "balota-17.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -367,7 +367,7 @@
 					}
 				},
 				{
-					"filename": "balota-18",
+					"filename": "balota-18.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -388,7 +388,7 @@
 					}
 				},
 				{
-					"filename": "balota-19",
+					"filename": "balota-19.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -409,7 +409,7 @@
 					}
 				},
 				{
-					"filename": "balota-20",
+					"filename": "balota-20.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -430,7 +430,7 @@
 					}
 				},
 				{
-					"filename": "balota-21",
+					"filename": "balota-21.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -451,7 +451,7 @@
 					}
 				},
 				{
-					"filename": "balota-22",
+					"filename": "balota-22.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -472,7 +472,7 @@
 					}
 				},
 				{
-					"filename": "balota-23",
+					"filename": "balota-23.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -493,7 +493,7 @@
 					}
 				},
 				{
-					"filename": "balota-24",
+					"filename": "balota-24.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -514,7 +514,7 @@
 					}
 				},
 				{
-					"filename": "balota-25",
+					"filename": "balota-25.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -535,7 +535,7 @@
 					}
 				},
 				{
-					"filename": "balota-26",
+					"filename": "balota-26.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -556,7 +556,7 @@
 					}
 				},
 				{
-					"filename": "balota-27",
+					"filename": "balota-27.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -577,7 +577,7 @@
 					}
 				},
 				{
-					"filename": "balota-28",
+					"filename": "balota-28.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -598,7 +598,7 @@
 					}
 				},
 				{
-					"filename": "balota-29",
+					"filename": "balota-29.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -619,7 +619,7 @@
 					}
 				},
 				{
-					"filename": "balota-30",
+					"filename": "balota-30.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -640,7 +640,7 @@
 					}
 				},
 				{
-					"filename": "balota-31",
+					"filename": "balota-31.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -661,7 +661,7 @@
 					}
 				},
 				{
-					"filename": "balota-32",
+					"filename": "balota-32.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -682,7 +682,7 @@
 					}
 				},
 				{
-					"filename": "balota-33",
+					"filename": "balota-33.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -703,7 +703,7 @@
 					}
 				},
 				{
-					"filename": "balota-34",
+					"filename": "balota-34.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -724,7 +724,7 @@
 					}
 				},
 				{
-					"filename": "balota-35",
+					"filename": "balota-35.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -745,7 +745,7 @@
 					}
 				},
 				{
-					"filename": "balota-36",
+					"filename": "balota-36.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -766,7 +766,7 @@
 					}
 				},
 				{
-					"filename": "balota-37",
+					"filename": "balota-37.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -787,7 +787,7 @@
 					}
 				},
 				{
-					"filename": "balota-38",
+					"filename": "balota-38.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -808,7 +808,7 @@
 					}
 				},
 				{
-					"filename": "balota-39",
+					"filename": "balota-39.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -829,7 +829,7 @@
 					}
 				},
 				{
-					"filename": "balota-40",
+					"filename": "balota-40.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -850,7 +850,7 @@
 					}
 				},
 				{
-					"filename": "balota-41",
+					"filename": "balota-41.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -871,7 +871,7 @@
 					}
 				},
 				{
-					"filename": "balota-42",
+					"filename": "balota-42.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -892,7 +892,7 @@
 					}
 				},
 				{
-					"filename": "balota-43",
+					"filename": "balota-43.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -913,7 +913,7 @@
 					}
 				},
 				{
-					"filename": "balota-44",
+					"filename": "balota-44.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -934,7 +934,7 @@
 					}
 				},
 				{
-					"filename": "balota-45",
+					"filename": "balota-45.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -955,7 +955,7 @@
 					}
 				},
 				{
-					"filename": "balota-46",
+					"filename": "balota-46.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -976,7 +976,7 @@
 					}
 				},
 				{
-					"filename": "balota-47",
+					"filename": "balota-47.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -997,7 +997,7 @@
 					}
 				},
 				{
-					"filename": "balota-48",
+					"filename": "balota-48.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1018,7 +1018,7 @@
 					}
 				},
 				{
-					"filename": "balota-49",
+					"filename": "balota-49.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1039,7 +1039,7 @@
 					}
 				},
 				{
-					"filename": "balota-50",
+					"filename": "balota-50.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1060,7 +1060,7 @@
 					}
 				},
 				{
-					"filename": "balota-51",
+					"filename": "balota-51.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1081,7 +1081,7 @@
 					}
 				},
 				{
-					"filename": "balota-52",
+					"filename": "balota-52.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1102,7 +1102,7 @@
 					}
 				},
 				{
-					"filename": "balota-53",
+					"filename": "balota-53.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1123,7 +1123,7 @@
 					}
 				},
 				{
-					"filename": "balota-54",
+					"filename": "balota-54.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1144,7 +1144,7 @@
 					}
 				},
 				{
-					"filename": "balota-55",
+					"filename": "balota-55.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1165,7 +1165,7 @@
 					}
 				},
 				{
-					"filename": "balota-56",
+					"filename": "balota-56.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1186,7 +1186,7 @@
 					}
 				},
 				{
-					"filename": "balota-57",
+					"filename": "balota-57.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1207,7 +1207,7 @@
 					}
 				},
 				{
-					"filename": "balota-58",
+					"filename": "balota-58.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1228,7 +1228,7 @@
 					}
 				},
 				{
-					"filename": "balota-59",
+					"filename": "balota-59.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1249,7 +1249,7 @@
 					}
 				},
 				{
-					"filename": "balota-60",
+					"filename": "balota-60.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1275,6 +1275,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:59fddc8fe39a4926a24cd024fe291634:457e66004c9ef9afb3cd93956e1b2978:a22c93a6f21a68ccb58e967d8427e517$"
+		"smartupdate": "$TexturePacker:SmartUpdate:7d0b347c1689b7916ace7dc9908eeac6:12cda89cf3729b9c4076b1a086b0ca43:a22c93a6f21a68ccb58e967d8427e517$"
 	}
 }
