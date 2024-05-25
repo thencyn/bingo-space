@@ -4,7 +4,7 @@
 			"image": "cohete-animaciones-0.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1593,
+				"w": 1596,
 				"h": 1881
 			},
 			"scale": 1,
@@ -14,19 +14,19 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 529,
-						"h": 855
+						"w": 530,
+						"h": 856
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 230,
-						"w": 529,
+						"y": 231,
+						"w": 530,
 						"h": 625
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 529,
+						"w": 530,
 						"h": 625
 					}
 				},
@@ -35,19 +35,19 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 529,
-						"h": 855
+						"w": 530,
+						"h": 856
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 230,
-						"w": 529,
+						"y": 231,
+						"w": 530,
 						"h": 625
 					},
 					"frame": {
 						"x": 1,
 						"y": 628,
-						"w": 529,
+						"w": 530,
 						"h": 625
 					}
 				},
@@ -56,40 +56,19 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 529,
-						"h": 855
+						"w": 530,
+						"h": 856
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 230,
-						"w": 529,
+						"y": 231,
+						"w": 530,
 						"h": 625
 					},
 					"frame": {
 						"x": 1,
 						"y": 1255,
-						"w": 529,
-						"h": 625
-					}
-				},
-				{
-					"filename": "cohete-sin-tapa-04",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 529,
-						"h": 855
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 230,
-						"w": 529,
-						"h": 625
-					},
-					"frame": {
-						"x": 532,
-						"y": 1,
-						"w": 529,
+						"w": 530,
 						"h": 625
 					}
 				},
@@ -98,61 +77,19 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 529,
-						"h": 855
+						"w": 530,
+						"h": 856
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 230,
-						"w": 529,
+						"y": 231,
+						"w": 530,
 						"h": 625
 					},
 					"frame": {
-						"x": 1063,
+						"x": 533,
 						"y": 1,
-						"w": 529,
-						"h": 625
-					}
-				},
-				{
-					"filename": "cohete-sin-tapa-07",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 529,
-						"h": 855
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 230,
-						"w": 529,
-						"h": 625
-					},
-					"frame": {
-						"x": 532,
-						"y": 628,
-						"w": 529,
-						"h": 625
-					}
-				},
-				{
-					"filename": "cohete-sin-tapa-08",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 529,
-						"h": 855
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 230,
-						"w": 529,
-						"h": 625
-					},
-					"frame": {
-						"x": 532,
-						"y": 1255,
-						"w": 529,
+						"w": 530,
 						"h": 625
 					}
 				},
@@ -161,19 +98,135 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 528,
-						"h": 855
+						"w": 530,
+						"h": 856
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 230,
-						"w": 528,
+						"y": 231,
+						"w": 530,
 						"h": 625
 					},
 					"frame": {
-						"x": 1063,
+						"x": 1065,
+						"y": 1,
+						"w": 530,
+						"h": 625
+					}
+				},
+				{
+					"filename": "cohete-sin-tapa-07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 530,
+						"h": 856
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 231,
+						"w": 530,
+						"h": 625
+					},
+					"frame": {
+						"x": 533,
 						"y": 628,
-						"w": 528,
+						"w": 530,
+						"h": 625
+					}
+				},
+				{
+					"filename": "cohete-sin-tapa-08",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 530,
+						"h": 856
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 231,
+						"w": 530,
+						"h": 625
+					},
+					"frame": {
+						"x": 533,
+						"y": 1255,
+						"w": 530,
+						"h": 625
+					}
+				},
+				{
+					"filename": "cohete-sin-tapa-09",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 530,
+						"h": 856
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 231,
+						"w": 530,
+						"h": 625
+					},
+					"frame": {
+						"x": 1065,
+						"y": 628,
+						"w": 530,
+						"h": 625
+					}
+				},
+				{
+					"filename": "cohete-sin-tapa-04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 530,
+						"h": 856
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 231,
+						"w": 529,
+						"h": 625
+					},
+					"frame": {
+						"x": 1065,
+						"y": 1255,
+						"w": 529,
+						"h": 625
+					}
+				}
+			]
+		},
+		{
+			"image": "cohete-animaciones-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 531,
+				"h": 627
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cohete-sin-tapa-10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 530,
+						"h": 856
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 231,
+						"w": 529,
+						"h": 625
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 529,
 						"h": 625
 					}
 				}
@@ -183,6 +236,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:6f44c983f5f3372d311d6fdda5cd9899:bfcc11e825a5364de8cf690b53522504:2757431fb4a03c2db46658b94cb39b5f$"
+		"smartupdate": "$TexturePacker:SmartUpdate:e0c63ab28f6b4140c932eae28aff0925:ac833b073c6af13fc614330527d23da8:061a0281d605c6563f068f5696579077$"
 	}
 }
